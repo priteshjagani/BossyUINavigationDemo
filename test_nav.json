@@ -1,0 +1,30 @@
+{
+    "navigation": [
+        {
+            "title":"Menu1",
+            "link":[
+                {
+                    "title":"Menu11",
+                    "link":"url11"
+                },
+                {
+                    "title":"Menu12",
+                    "link":"url12"
+                }
+            ]
+        },
+        {
+            "title":"Menu2",
+            "link":[
+                {
+                    "title":"Menu21",
+                    "link":"url21"
+                },
+                {
+                    "title":"Menu22",
+                    "link":"url22"
+                }
+            ]
+        }
+    ]
+}
