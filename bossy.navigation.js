@@ -81,11 +81,4 @@ angular.module('bossy.navigation', ['bossy.data'])
         };
 
     }])
-
-    .directive('_submenu', function() {
-        return {
-            link: function(scope, elem, attrs) {
-            }
-        };
-    }
 ;
