@@ -4,7 +4,7 @@ body{
 .navbar {
     font-family: "Lato",Helvetica,sans-serif;
     font-weight: 300;
-    background-color: #0076A8;
+    background-color: #0076A8; //Need to change this
     color: #FFF;
   
     text-align: center; 
